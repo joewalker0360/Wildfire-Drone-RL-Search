@@ -1,6 +1,6 @@
 """
 run_experiments.py
-Comprehensive experimental suite for Assignment 1:
+Comprehensive experimental suite for Algorithms & Game Simulation:
 Evolution from Classical Search (BFS, A*) to Reinforcement Learning (Q-Learning, PPO, SAC).
 Two-Phase Search, Rescue & Evacuation Mission in Hazardous Wildfire Terrain.
 - Phase 1: Depot (0,0) -> Trapped Ranger in Canyon Pocket (7,2)

@@ -1,6 +1,6 @@
 """
 run_experiments.py
-Comprehensive experimental suite for Assignment 1:
+Comprehensive experimental suite for Algorithms & Game Simulation:
 Two-Phase Search, Rescue & Evacuation Mission in Hazardous Wildfire Terrain.
 - Phase 1: Depot (0,0) -> Trapped Ranger in Canyon Pocket (7,2)
 - Phase 2: Ranger (7,2) -> Emergency Evacuation Base (14,14)

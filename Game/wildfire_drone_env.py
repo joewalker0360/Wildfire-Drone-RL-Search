@@ -1,6 +1,6 @@
 """
 WildfireDroneRescueEnv: Custom Gymnasium Environment (Two-Phase Search, Rescue & Evacuation Mission)
-Course: Machine Learning (23MEE305) - Assignment 1
+Autonomous Wildfire Drone Search, Rescue & Evacuation (Algorithms & Game)
 Scenario:
   Phase 1: Ingress & Search from Launch Depot (0,0) to Trapped Ranger in Middle Canyon Pocket (7,2).
   Phase 2: Egress & Evacuation from Canyon Pocket (7,2) to Hospital Evacuation Base (14,14).

@@ -116,7 +116,7 @@ class DynamicWildfireDroneEnv(WildfireDroneRescueEnv):
         return can_reach_ranger and can_reach_evac
 
     def reset_to_default_layout(self):
-        """Restores the canonical Assignment 1 layout."""
+        """Restores the canonical benchmark layout."""
         self.start_pos = self.default_start_pos
         self.ranger_pos = self.default_ranger_pos
         self.evac_pos = self.default_evac_pos
